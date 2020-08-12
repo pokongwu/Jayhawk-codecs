@@ -1,9 +1,9 @@
-## HowTo Use
+## How to Use
 
-*Must run on ARM architectures*
+*This has to been installed and run on the Raspberry-Pi*
 
-**Build test images:**
+**To automatically build the four video streaming frameworks run:**
 ./buildFrameworkImages.sh
 
 **Run test:**
-./automaticTest.sh <ip-of-receiver>
+
