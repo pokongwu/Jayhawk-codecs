@@ -1,6 +1,6 @@
 # gstreamer
 ## Running command on pi
-docker run -it --privileged -p 2000:2000 -p 8005:8005 -p 8004:8004 -v /dev/video0:/dev/video0 -e IP="IP_of_Receiver" gstreamer
+docker run -it --privileged --net=host -v /dev/video0:/dev/video0 -e IP="IP_of_Receiver" gstreamer
 
 ### Commands for testing:
 **H.264:**
