@@ -1,6 +1,3 @@
-FROM    quay.io/prometheus/busybox:latest
-MAINTAINER  The Prometheus Authors <prometheus-developers@googlegroups.com>
+FROM   prom/prometheus
+ADD prometheus.yml /etc/prometheus/
 
-COPY  prometheus                            /bin/prometheus
-COPY  promtool                              /bin/promtool
-COPY  documentation/examples/prometheus.yml
