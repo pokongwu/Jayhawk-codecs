@@ -4,4 +4,4 @@ global:
 scrape_configs:
   - job_name: cadvisor
     static_configs:
-      - targets: ['127.0.0.1:8080']
+      - targets: ['141.13.92.34:8080']
