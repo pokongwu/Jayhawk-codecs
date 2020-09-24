@@ -1,0 +1,6 @@
+ARG BASE_CONTAINER=jupyter/datascience-notebook
+FROM $BASE_CONTAINER
+
+COPY . ./
+
+WORKDIR $HOME
