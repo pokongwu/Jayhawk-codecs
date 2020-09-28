@@ -1,0 +1,2 @@
+name,timestamp,value,id,image,instance,job,name
+container_memory_usage_bytes,1601303626.02,7860224,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,cadvisor,gstreamer_mjpeg

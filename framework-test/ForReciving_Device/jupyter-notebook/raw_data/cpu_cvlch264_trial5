@@ -1,0 +1,5 @@
+name,timestamp,value,cpu,id,image,instance,job,name
+container_cpu_usage_seconds_total,1600963882.927,796.444991005,cpu00,/docker/329e34dbf17b845accba59f8626de8ab477cee87c620c829f93132f5f2f6becb,cvlc,141.13.92.34:8080,cadvisor,cvlc_h264
+container_cpu_usage_seconds_total,1600963882.927,791.591815213,cpu01,/docker/329e34dbf17b845accba59f8626de8ab477cee87c620c829f93132f5f2f6becb,cvlc,141.13.92.34:8080,cadvisor,cvlc_h264
+container_cpu_usage_seconds_total,1600963882.927,792.944378197,cpu02,/docker/329e34dbf17b845accba59f8626de8ab477cee87c620c829f93132f5f2f6becb,cvlc,141.13.92.34:8080,cadvisor,cvlc_h264
+container_cpu_usage_seconds_total,1600963882.927,788.378737248,cpu03,/docker/329e34dbf17b845accba59f8626de8ab477cee87c620c829f93132f5f2f6becb,cvlc,141.13.92.34:8080,cadvisor,cvlc_h264
