@@ -1,0 +1,5 @@
+name,timestamp,value,cpu,id,image,instance,job,name
+container_cpu_usage_seconds_total,1601290874.077,99.47002633,cpu00,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,cadvisor,ffmpeg_h264
+container_cpu_usage_seconds_total,1601290874.077,82.957523608,cpu01,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,cadvisor,ffmpeg_h264
+container_cpu_usage_seconds_total,1601290874.077,85.744875176,cpu02,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,cadvisor,ffmpeg_h264
+container_cpu_usage_seconds_total,1601290874.077,85.969801049,cpu03,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,cadvisor,ffmpeg_h264

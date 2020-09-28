@@ -1,0 +1,3 @@
+name,timestamp,value,id,image,instance,interface,job,name
+container_network_receive_bytes_total,1601291811.875,0,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,br-96f3a7dfd889,cadvisor,ffmpeg_h264
+container_network_receive_bytes_total,1601291811.875,42484194,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264

@@ -1,0 +1,2 @@
+name,timestamp,value,id,image,instance,interface,job,name
+container_network_receive_packets_total,1600968094.876,3597363,/docker/7bfb32ef819f327b7fd9a5cd41e691c146841e9a97ef6069923d508042620146,cvlc,141.13.92.34:8080,eth0,cadvisor,cvlc_mjpeg
