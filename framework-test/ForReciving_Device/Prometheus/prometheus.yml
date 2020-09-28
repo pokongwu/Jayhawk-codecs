@@ -1,7 +1,0 @@
-global:
-  scrape_interval: 15s
-
-scrape_configs:
-  - job_name: cadvisor
-    static_configs:
-      - targets: ['141.13.92.34:8080']
