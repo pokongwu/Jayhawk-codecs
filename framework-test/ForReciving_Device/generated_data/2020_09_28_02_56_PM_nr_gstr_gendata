@@ -1,0 +1,3 @@
+name,timestamp,value,id,image,instance,interface,job,name
+container_network_receive_bytes_total,1601297761.932,0,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,br-96f3a7dfd889,cadvisor,mjpgstreamer
+container_network_receive_bytes_total,1601297761.932,102888181,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer

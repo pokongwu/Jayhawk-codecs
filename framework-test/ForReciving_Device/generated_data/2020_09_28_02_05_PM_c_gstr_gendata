@@ -1,0 +1,5 @@
+name,timestamp,value,cpu,id,image,instance,job,name
+container_cpu_usage_seconds_total,1601294707.025,3.519892565,cpu00,/docker/e8523004a9531fb434ce3ebce1a1b634ac322e87ebd505c5d5c07ab336edf997,mjpgstreamer,141.13.92.34:8080,cadvisor,mjpgstreamer
+container_cpu_usage_seconds_total,1601294707.025,0.572478189,cpu01,/docker/e8523004a9531fb434ce3ebce1a1b634ac322e87ebd505c5d5c07ab336edf997,mjpgstreamer,141.13.92.34:8080,cadvisor,mjpgstreamer
+container_cpu_usage_seconds_total,1601294707.025,0.879630473,cpu02,/docker/e8523004a9531fb434ce3ebce1a1b634ac322e87ebd505c5d5c07ab336edf997,mjpgstreamer,141.13.92.34:8080,cadvisor,mjpgstreamer
+container_cpu_usage_seconds_total,1601294707.025,0.474943176,cpu03,/docker/e8523004a9531fb434ce3ebce1a1b634ac322e87ebd505c5d5c07ab336edf997,mjpgstreamer,141.13.92.34:8080,cadvisor,mjpgstreamer
