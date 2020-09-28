@@ -1,0 +1,3 @@
+name,timestamp,value,id,image,instance,interface,job,name
+container_network_receive_bytes_total,1601301251.033,0,/docker/ffc10239d4d09076f4b8440ad0e06ff39f1e000bb78145246e0b3fadfcd1fdcf,gstreamer,141.13.92.34:8080,br-96f3a7dfd889,cadvisor,gstreamer
+container_network_receive_bytes_total,1601301251.033,135671804,/docker/ffc10239d4d09076f4b8440ad0e06ff39f1e000bb78145246e0b3fadfcd1fdcf,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer
