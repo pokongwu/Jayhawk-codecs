@@ -1,0 +1,3 @@
+name,timestamp,value,id,image,instance,interface,job,name
+container_network_receive_bytes_total,1601380798.271,0,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,br-96f3a7dfd889,cadvisor,cvlc_h264
+container_network_receive_bytes_total,1601380798.271,16443935,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264
