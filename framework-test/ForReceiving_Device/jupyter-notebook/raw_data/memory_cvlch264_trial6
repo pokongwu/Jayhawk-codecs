@@ -1,0 +1,2 @@
+name,timestamp,value,id,image,instance,job,name
+container_memory_usage_bytes,1601629238.101,128946176,/docker/15fe4ffe9e611f9fcfb663ee2fdc825bebedc1b19917d9e49484617773f72b74,cvlc,141.13.163.107:8080,cadvisor,cvlc_h264
