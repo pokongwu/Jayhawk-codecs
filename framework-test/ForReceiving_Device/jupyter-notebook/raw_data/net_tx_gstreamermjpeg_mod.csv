@@ -1,0 +1,8 @@
+,name,timestamp,value,id,image,instance,interface,job,name.1
+1,container_network_transmit_bytes_total,1601304433.421,11529417995,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer_mjpeg
+3,container_network_transmit_bytes_total,1601304495.539,11530050806,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer_mjpeg
+5,container_network_transmit_bytes_total,1601304559.524,11530684114,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer_mjpeg
+7,container_network_transmit_bytes_total,1601304625.697,11531343551,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer_mjpeg
+9,container_network_transmit_bytes_total,1601304691.143,11531977011,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer_mjpeg
+11,container_network_transmit_bytes_total,1601304755.514,11532082032,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer_mjpeg
+13,container_network_transmit_bytes_total,1601304821.561,11533270370,/docker/8b8a3a6ab118b28afc4fd34a94034a2b902fe33d613a85a68fc6335a35955955,gstreamer,141.13.92.34:8080,eth0,cadvisor,gstreamer_mjpeg

@@ -1,0 +1,8 @@
+,name,timestamp,value,id,image,instance,interface,job,name.1
+1,container_network_receive_bytes_total,1601380798.2710001,16443935,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264
+3,container_network_receive_bytes_total,1601380869.593,16974061,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264
+5,container_network_receive_bytes_total,1601380930.09,17324311,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264
+7,container_network_receive_bytes_total,1601380993.546,17717196,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264
+9,container_network_receive_bytes_total,1601381061.0579998,18217989,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264
+11,container_network_receive_bytes_total,1601381123.2370002,18609014,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264
+13,container_network_receive_bytes_total,1601381186.5779998,18977185,/docker/2090e6dbde213e7db8f18d1416880f3475f474f0c128674526ae045e7e4af75d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_h264

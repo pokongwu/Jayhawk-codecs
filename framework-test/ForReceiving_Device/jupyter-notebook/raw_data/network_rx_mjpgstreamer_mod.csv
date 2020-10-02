@@ -1,0 +1,8 @@
+,name,timestamp,value,id,image,instance,interface,job,name.1
+1,container_network_receive_bytes_total,1601297491.15,95884213,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer
+3,container_network_receive_bytes_total,1601297562.3,97838561,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer
+5,container_network_receive_bytes_total,1601297629.6179998,99451799,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer
+7,container_network_receive_bytes_total,1601297695.3820002,101478045,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer
+9,container_network_receive_bytes_total,1601297761.9320002,102888181,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer
+11,container_network_receive_bytes_total,1601297831.8479998,104899942,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer
+13,container_network_receive_bytes_total,1601297896.77,106485986,/docker/25f6b70c7852700265db101c92b3a1eaf9470ac39022739f5e4a1bb342e383d6,mjpgstreamer,141.13.92.34:8080,eth0,cadvisor,mjpgstreamer

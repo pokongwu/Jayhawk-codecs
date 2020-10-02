@@ -1,0 +1,8 @@
+,name,timestamp,value,id,image,instance,interface,job,name.1
+1,container_network_receive_bytes_total,1601291488.516,41630241,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264
+3,container_network_receive_bytes_total,1601291555.286,41768763,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264
+5,container_network_receive_bytes_total,1601291625.195,41875502,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264
+7,container_network_receive_bytes_total,1601291682.7410002,42027208,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264
+9,container_network_receive_bytes_total,1601291749.26,42186412,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264
+11,container_network_receive_bytes_total,1601291811.875,42484194,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264
+13,container_network_receive_bytes_total,1601291874.7289999,42715528,/docker/6363f038985b1a5601488da1e7e058d5d60c809f139e3af94cab3036491ca338,ffmpeg,141.13.92.34:8080,eth0,cadvisor,ffmpeg_h264

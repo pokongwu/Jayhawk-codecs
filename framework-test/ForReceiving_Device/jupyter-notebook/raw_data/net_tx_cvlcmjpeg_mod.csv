@@ -1,0 +1,8 @@
+,name,timestamp,value,id,image,instance,interface,job,name.1
+1,container_network_transmit_bytes_total,1601381583.8339999,285624433,/docker/d6d0ae46e3a82bd9ac89b25492369754e14d346cc97f72b18228cd939037336d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_mjpeg
+3,container_network_transmit_bytes_total,1601381654.954,340063907,/docker/d6d0ae46e3a82bd9ac89b25492369754e14d346cc97f72b18228cd939037336d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_mjpeg
+5,container_network_transmit_bytes_total,1601381726.01,398721624,/docker/d6d0ae46e3a82bd9ac89b25492369754e14d346cc97f72b18228cd939037336d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_mjpeg
+7,container_network_transmit_bytes_total,1601381791.7410002,447530972,/docker/d6d0ae46e3a82bd9ac89b25492369754e14d346cc97f72b18228cd939037336d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_mjpeg
+9,container_network_transmit_bytes_total,1601381857.1279998,502900460,/docker/d6d0ae46e3a82bd9ac89b25492369754e14d346cc97f72b18228cd939037336d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_mjpeg
+11,container_network_transmit_bytes_total,1601381921.0410001,549220869,/docker/d6d0ae46e3a82bd9ac89b25492369754e14d346cc97f72b18228cd939037336d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_mjpeg
+13,container_network_transmit_bytes_total,1601381983.66,595571769,/docker/d6d0ae46e3a82bd9ac89b25492369754e14d346cc97f72b18228cd939037336d,cvlc,141.13.163.107:8080,eth0,cadvisor,cvlc_mjpeg
