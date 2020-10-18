@@ -1,0 +1,2 @@
+name,timestamp,value,id,image,instance,job,name
+container_memory_usage_bytes,1602837463.68,6959104,/docker/7fbbd4150538b055429ed06acb84b5ff9b3ea3376ced72abd4873758262ad4dd,ffmpeg,192.168.26.156:8080,cadvisor,ffmpeg-mjpeg

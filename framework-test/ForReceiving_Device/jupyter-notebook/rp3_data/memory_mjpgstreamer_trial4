@@ -1,0 +1,2 @@
+name,timestamp,value,id,image,instance,job,name
+container_memory_usage_bytes,1602334283.313,3407872,/docker/e8a65c105ab83288fc5d3870c335ee4c9b6d41fc190579b5f5fd780b5442e608,mjpgstreamer,192.168.26.156:8080,cadvisor,mjpgstreamer
