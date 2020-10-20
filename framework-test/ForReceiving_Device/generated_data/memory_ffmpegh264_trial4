@@ -1,2 +1,0 @@
-name,timestamp,value,id,image,instance,job,name
-container_memory_usage_bytes,1601382722.791,16101376,/docker/c6f4d2316509db1daeb1918964c2f17120c431b1354c587643c68d296beaf5f2,ffmpeg,141.13.163.107:8080,cadvisor,ffmpeg_h264

@@ -11,5 +11,5 @@ scrape_configs:
   scheme: http
   static_configs:
   - targets:
-    - 141.13.163.107:8080
+    - 192.168.0.22:8080
 
